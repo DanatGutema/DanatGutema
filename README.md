@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanatGutema
-- 👀 I’m interested in ... web developement and data science
-- 🌱 I’m currently learning ... computer science at veltech university.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in data science and software engineering
+- 🌱 I’m currently pursuing my first degree computer science at veltech university, Chennai, India.
+- 💞️ I’m looking to collaborate and volunteer within community
+- 📫 How to reach me ... danatgutema@gmail.com
 
 <!---
 DanatGutema/DanatGutema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
