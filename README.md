@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanatGutema
 - 👀 I’m interested in data science and software engineering
-- 🌱 I’m currently pursuing my first degree computer science at veltech university, Chennai, India.
+- 🌱 I’m recent graduate of computer science and engineering with specialization in data science at veltech university, Chennai, India.
 - 💞️ I’m looking to collaborate and volunteer within community
 - 📫 How to reach me ... danatgutema@gmail.com
 
